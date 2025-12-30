@@ -44,7 +44,7 @@ A life-saving platform connecting blood donors with recipients in real-time.
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight&count_private=true" alt="Jony's Stats" height="180" />
   
-  <img src="https://stats.justin0u0.com/api?username=shaharearhossainjony&theme=tokyonight" alt="Jony's Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharearhossainjony&theme=tokyonight" alt="Jony's Streak" height="180" />
 </p>
 
 ---
