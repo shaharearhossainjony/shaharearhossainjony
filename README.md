@@ -37,7 +37,7 @@ I am a dedicated **Frontend Developer** with a strong focus on the **MERN stack*
 
 ---
 
-### 📊 GitHub Profile Summary (Midnight Purple)
+### 📊 GitHub Profile Summary
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaharearhossainjony&theme=midnight_purple" width="100%" />
@@ -55,14 +55,6 @@ I am a dedicated **Frontend Developer** with a strong focus on the **MERN stack*
 
 ---
 
-### 📈 Activity Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=midnight-purple&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=shaharearhossainjony&theme=midnight-purple" height="180" />
-</p>
-
----
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/shaharearhossainjony](https://linkedin.com/in/shaharearhossainjony)
