@@ -42,15 +42,7 @@ A life-saving platform connecting blood donors with recipients in real-time.
 ### 📊 My GitHub Activity
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"
-    height="170"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=shaharearhossainjony&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    height="170"
-  />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight&count_private=true" alt="Jony's Stats" height="180" />
 </p>
 
 ---
