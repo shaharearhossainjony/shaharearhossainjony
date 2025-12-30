@@ -1,4 +1,4 @@
-# Hi there, I'm Shaharear Hossain Jony! 👋
+# Hi there, I'm Md. Shaharear Hossain Jony! 👋
 
 ### 🚀 MERN Stack & Frontend Specialist
 I am a dedicated **Frontend Developer** with a strong focus on the **MERN stack**, building responsive, user-centric web applications. I specialize in turning complex problems into elegant, functional code.
@@ -42,15 +42,15 @@ A life-saving platform connecting blood donors with recipients in real-time.
 ### 📊 My GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight" alt="Jony's Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharearhossainjony&theme=tokyonight" alt="Jony's Streak" height="180" />
+  <<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight&count_private=true" alt="Jony's Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=shaharearhossainjony&theme=tokyonight" alt="Jony's Streak" height="180" />
 </p>
 
 
 ---
 
 ### 📫 Let's Connect
-* **Portfolio:** [Your Portfolio Link here]
+* **Portfolio:** [Sites are coming soon]
 * **LinkedIn:** linkedin.com/in/shaharearhossainjony
 * **Email:** shaharearhossainjony@gmail.com
 * **Phone:** +8801771-420235
