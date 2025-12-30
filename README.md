@@ -28,21 +28,38 @@ I am a dedicated **Frontend Developer** with a strong focus on the **MERN stack*
 ### 🌟 Featured Projects (Full CRUD)
 
 #### 🐾 [PawMart - Pet E-commerce Service](https://b12a10-pawmart-authentication.web.app/)
-A comprehensive pet marketplace allowing users to browse, adopt, and purchase pet supplies.
-* **Key Features:** User authentication, product management, and cart functionality.
 * **Tech:** React, Tailwind CSS, Firebase, Node.js, MongoDB.
+* **Key Features:** User authentication, product management, and cart functionality.
 
 #### 🩸 [Bludly - Donate Blood, Save Life](https://bludly-client.web.app/)
-A life-saving platform connecting blood donors with recipients in real-time.
-* **Key Features:** Donor registration, search filters, and request management.
 * **Tech:** MERN Stack, JWT for secure sessions, daisyUI.
+* **Key Features:** Donor registration, search filters, and request management.
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 GitHub Profile Summary (Midnight Purple)
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaharearhossainjony&theme=midnight_purple" width="100%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaharearhossainjony&theme=midnight_purple" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaharearhossainjony&theme=midnight_purple&utcOffset=6" width="49%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaharearhossainjony&theme=midnight_purple" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaharearhossainjony&theme=midnight_purple" width="49%" />
+</p>
+
+---
+
+### 📈 Activity Stats
 
 <p align="left">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight&count_private=true" alt="Jony's Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=midnight-purple&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=shaharearhossainjony&theme=midnight-purple" height="180" />
 </p>
 
 ---
