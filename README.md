@@ -42,18 +42,17 @@ A life-saving platform connecting blood donors with recipients in real-time.
 ### 📊 My GitHub Activity
 
 <p align="left">
-  <<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight&count_private=true" alt="Jony's Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=shaharearhossainjony&theme=tokyonight" alt="Jony's Streak" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaharearhossainjony&show_icons=true&theme=tokyonight&count_private=true" alt="Jony's Stats" height="180" />
+  
+  <img src="https://stats.justin0u0.com/api?username=shaharearhossainjony&theme=tokyonight" alt="Jony's Streak" height="180" />
 </p>
-
 
 ---
 
 ### 📫 Let's Connect
-* **Portfolio:** [Sites are coming soon]
-* **LinkedIn:** linkedin.com/in/shaharearhossainjony
-* **Email:** shaharearhossainjony@gmail.com
+* **LinkedIn:** [linkedin.com/in/shaharearhossainjony](https://linkedin.com/in/shaharearhossainjony)
+* **Email:** [shaharearhossainjony@gmail.com](mailto:shaharearhossainjony@gmail.com)
 * **Phone:** +8801771-420235
-
+* **Portfolio:** Sites are coming soon
 
 ---
