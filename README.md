@@ -1,5 +1,5 @@
 
-![Header](./github-header-banner.png)
+![Header](https://i.ibb.co.com/x8zWqGsT/github-header-banner.png)
 
 # Hi there, I'm Md. Shaharear Hossain Jony! 👋
 
